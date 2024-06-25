@@ -17,8 +17,6 @@ WebScrapeX is a concurrent web crawler implemented in C++ using modern C++ threa
 # Installation and Prerequisites
 - Ensure `libcurl` is installed on your system.
 
-# Build and Run:
-
 # Create a build directory and navigate to it.
 - mkdir build
 - cd build
