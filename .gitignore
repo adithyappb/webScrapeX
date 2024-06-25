@@ -1,0 +1,16 @@
+# C++ specific
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# CMake build directory
+/build/
+
+# Visual Studio Code specific files
+.vscode/
+
+# Compiled binaries
+/bin/
